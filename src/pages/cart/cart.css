@@ -62,6 +62,17 @@
     align-items: center;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     border-radius: 25px;
-    margin: 0px;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+  .cartItem img {
+    width: 200px;
+    margin:auto;
+    margin-top: 40px;
+  }
+  .cartItem .description {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
   }
 }
