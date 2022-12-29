@@ -62,4 +62,9 @@
   .products {
     grid-template-columns: 1fr;
   }
+  .shopTitle {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
 }
