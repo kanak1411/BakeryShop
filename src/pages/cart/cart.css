@@ -4,6 +4,14 @@
   justify-content: center;
   align-items: center;
 }
+.productImg{
+  height: 250px;
+  width: 300px;
+}
+.productImg:hover{
+  height: 300px;
+  width: 350px;
+}
 
 .cartItem {
   width: 700px;
